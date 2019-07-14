@@ -3,7 +3,7 @@ FILE *f;
 void createvertice(int,int,int);
 void createface(int,int,int,int);
 void createcube(int,int,int);
-int a[20][20][20],m,n,o;
+int a[50][50][50],m,n,o;
 int noofvertices=0;
 int nooffaces=0;
 int main()
