@@ -16,4 +16,4 @@ run python file to remove duplicates
 command:
 python3 del_dup.py
 
-python outputs a new.obj 3d object file duplicates deleted.
+python outputs a new.obj 3d object file duplicates deleted..

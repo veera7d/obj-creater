@@ -1,3 +1,4 @@
+
 f=open("test.obj","r")
 listt=[]
 for i in f:
